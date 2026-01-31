@@ -3,6 +3,7 @@
 
 # Maven (nếu có)
 target/
+maven-mvnd-*/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
